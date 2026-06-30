@@ -143,13 +143,13 @@ The complete Power BI dashboard (.pbix) file can be downloaded here:
 
 ### Filtered Dashboard
 
-![Filtered Dashboard](Screenshots/Dashboard_filtered.png)
+![Dashboard Filtered](Screenshots/Dashboard_filtered.png)
 
 ---
 
 ### Data Model
 
-![Data Model](Screenshots/data_model_view.png)
+![Data Model](Screenshots/Data_model_view.png)
 
 ---
 
