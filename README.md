@@ -63,9 +63,12 @@ The objective was to transform raw transactional data into an interactive dashbo
 * Interactive Visualizations
 * Dashboard Design
 
-### Dataset
+## 📂 Dataset
 
-Brazilian E-Commerce Public Dataset (Olist)
+This project uses the **Brazilian E-Commerce Public Dataset by Olist**.
+
+📥 Dataset Source:
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 ---
 
