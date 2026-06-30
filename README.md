@@ -137,19 +137,19 @@ The complete Power BI dashboard (.pbix) file can be downloaded here:
 
 ### Dashboard Overview
 
-![Dashboard Overview](Screenshots/dashboard_overview.png)
+![Dashboard Overview](https://github.com/sethumadhavi-03/Ecommerce_Customer_analytics_Dashboard/blob/main/screenshots/dashboard_overview.png)
 
 ---
 
 ### Filtered Dashboard
 
-![Dashboard Filtered](Screenshots/Dashboard_filtered.png)
+![Dashboard Filtered](https://github.com/sethumadhavi-03/Ecommerce_Customer_analytics_Dashboard/blob/main/screenshots/Dashboard_filtered.png)
 
 ---
 
 ### Data Model
 
-![Data Model](Screenshots/Data_model_view.png)
+![Data Model](https://github.com/sethumadhavi-03/Ecommerce_Customer_analytics_Dashboard/blob/main/screenshots/data_model_view.png)
 
 ---
 
